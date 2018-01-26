@@ -13,7 +13,12 @@ See the [jQuery Sparkline project page](http://omnipotent.net/jquery.sparkline/)
 for live examples and documentation.
 
 ## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.sparkline.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.sparkline?ref=badge_shield)
+
 
 Released under the New BSD License
 
 (c) Splunk, Inc 2012
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.sparkline.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.sparkline?ref=badge_large)
